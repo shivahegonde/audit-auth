@@ -1,0 +1,3 @@
+com\audit\controller\AuthControllerTest.class
+com\audit\AuditAuthorizationApplicationTests.class
+com\audit\service\ProjectManagerServiceTest.class

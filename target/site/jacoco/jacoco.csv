@@ -1,0 +1,13 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+audit-authorization,com.audit.model,AuthenticationRequest,62,64,20,2,0,3,13,7,2,7
+audit-authorization,com.audit.model,ProjectManagerDetails,141,205,42,6,5,19,32,16,8,16
+audit-authorization,com.audit.model,AuthenticationResponse,58,156,20,14,0,7,18,13,1,13
+audit-authorization,com.audit.controller,AuthController,22,136,0,2,5,35,1,5,1,4
+audit-authorization,com.audit.exception,ExceptionHandlerAdvice,41,7,0,0,8,2,4,2,4,2
+audit-authorization,com.audit.exception,ProjectManagerNotFoundException,7,0,0,0,4,0,2,0,2,0
+audit-authorization,com.audit.swagger,SwaggerConfig,0,15,0,0,0,3,0,2,0,2
+audit-authorization,com.audit,AuditAuthorizationApplication,5,3,0,0,2,1,1,1,1,1
+audit-authorization,com.audit.service,JwtService,102,3,4,0,14,1,10,1,8,1
+audit-authorization,com.audit.service,ProjectManagerDetailsService,22,14,3,1,6,5,3,2,1,2
+audit-authorization,com.audit.security,SecurityConfig,0,54,0,0,0,10,0,5,0,5
+audit-authorization,com.audit.filter,JwtRequestFilter,100,7,10,0,27,2,6,2,1,2
